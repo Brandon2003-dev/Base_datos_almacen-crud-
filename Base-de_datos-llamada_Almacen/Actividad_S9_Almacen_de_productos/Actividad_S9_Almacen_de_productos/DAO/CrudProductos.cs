@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AActividad_S9_Almacen_de_productos.DAO
+namespace Actividad_S9_Almacen_de_productos.DAO
 {
     public class CrudProductos
     {
