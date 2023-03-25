@@ -61,18 +61,16 @@ while (comprobar == true)
             Console.WriteLine("-----------------------------------------");
             Console.WriteLine(" Id Cant. Producto Descripcion Precio ");
             Console.WriteLine("-----------------------------------------");
-            Console.WriteLine("\n- Problemas con el servidor ingrese mas tarde: ");
+            Console.WriteLine("Problemas con el servidor ingrese mas tarde: ");
 
             comprobar = false;
 
             break;
 
         case 3:
-            Console.WriteLine("                                                             ");
-            Console.WriteLine("\n\n---------------------------------------------------------");
+            Console.WriteLine("\n---------------------------------------------------------");
             Console.WriteLine("      Gracias por su visita, lo esperamos nuevamente :D      ");
             Console.WriteLine("-------------------------------------------------------------");
-            Console.WriteLine("                                                             ");
 
             comprobar = false;
 
